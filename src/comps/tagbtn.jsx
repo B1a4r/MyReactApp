@@ -16,9 +16,7 @@ export default function Btn({title='NaN',price='NaN',picture='NaN',validation,ch
             {title}<br/>
             {price}<br/>
             {validation}
-            
             {/* {listing} */}
-
             </button>        
         </>
     )
